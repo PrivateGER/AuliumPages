@@ -32,7 +32,7 @@
                 Jabber/XMPP: privateger@jabber.calyxinstitute.org<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat github.txt<br />
-                You can find me on GitHub under the name PerhapsSomeone. <a target="_blank" rel="noopener noreferrer" href="https://github.com/PerhapsSomeone">Click here!</a>
+                You can find me on GitHub under the name PerhapsSomeone. <a target="_blank" rel="noopener noreferrer" href="https://github.com/PerhapsSomeone">Click here!</a><br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat pgp.asc<br />
                 You can also send me PGP-encrypted messages if you wish.<br />
