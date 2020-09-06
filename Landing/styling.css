@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+.terminal_box {
+    font-family: 'Roboto Mono', monospace;
+    font-size: larger;
+    margin: 10px;
+    padding: 10px;
+    background-color: #212121;
+    color: white;
+}
+
+.terminal_box a {
+    color: white;
+}
+
+.blue_text {
+    color: #060ad1;
+}
+
+.green_text {
+    color: green;
+}
