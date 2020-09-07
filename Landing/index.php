@@ -6,6 +6,7 @@
         <div class="terminal_box">
 
             <p>
+				Connection established from <?= $_SERVER["REMOTE_ADDR"] === "::1" ? "127.0.0.1" : $_SERVER["REMOTE_ADDR"] ?> over <?= isset($_SERVER["HTTPS"]) ? "secure" : "unencrypted" ?> channel.<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % pwd<br />
                 /home/privateger

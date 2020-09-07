@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
 
+html {
+    background-image: url("background.jpg");
+}
 
 .terminal_box {
     font-family: 'Roboto Mono', monospace;
@@ -8,6 +11,9 @@
     padding: 10px;
     background-color: #212121;
     color: white;
+    border-radius: 10px;
+    box-shadow: 4px 4px 7px 7px rgba(113, 117, 114, 0.5);
+    word-break: break-word;
 }
 
 .terminal_box a {
