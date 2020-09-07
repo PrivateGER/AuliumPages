@@ -1,6 +1,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="styling.css">
+		<title>PrivateGER Landing Page</title>
     </head>
     <body>
         <div class="terminal_box">
