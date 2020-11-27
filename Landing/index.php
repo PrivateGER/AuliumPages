@@ -26,7 +26,7 @@
                 Born: 02/06/2003<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat job.txt<br />
-                Still just in highschool. Let's see what the future holds!<br />
+                In an apprenticeship.<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat contact.txt<br />
                 E-Mail: privateger@tutanota.com<br />
@@ -36,6 +36,12 @@
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat github.txt<br />
                 You can find me on GitHub under the name PerhapsSomeone. <a target="_blank" rel="noopener noreferrer" href="https://github.com/PerhapsSomeone">Click here!</a><br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
+                ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat support.txt<br />
+		If you like my work, you can support me using any of these platforms. I'd greatly appreciate it. :)<br />
+		<a href="https://ko-fi.com/privateger" target="_blank">Ko-fi</a><br />
+                <a href="https://www.patreon.com/privateger" target="_blank">Patreon</a><br />
+		Monero Address: 82XBfH1oJdwU5nU5JsbXbrYZC9JnUMu8Abedz3LwkG67P7D5JE7zHQGZ2kBJdZg6pTFeSbFCAaGyQd2SkBCpmLPDRjFMZo8<br />
+		╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat pgp.asc<br />
                 You can also send me PGP-encrypted messages if you wish.<br />
                 PGP fingerprint: 0xCAE625C962F94C67<br />
