@@ -41,6 +41,20 @@
 		<a href="https://ko-fi.com/privateger" target="_blank">Ko-fi</a><br />
                 <a href="https://www.patreon.com/privateger" target="_blank">Patreon</a><br />
 		Monero Address: 82XBfH1oJdwU5nU5JsbXbrYZC9JnUMu8Abedz3LwkG67P7D5JE7zHQGZ2kBJdZg6pTFeSbFCAaGyQd2SkBCpmLPDRjFMZo8<br />
+		<form action="https://www.coinpayments.net/index.php" method="post">
+		<input type="hidden" name="cmd" value="_donate">
+		<input type="hidden" name="reset" value="1">
+		<input type="hidden" name="merchant" value="b99ee3c07379367258411d2129bd82e5">
+		<input type="hidden" name="item_name" value="Donation">
+		<input type="hidden" name="currency" value="USD">
+		<input type="hidden" name="amountf" value="1.00000000">
+		<input type="hidden" name="allow_amount" value="1">
+		<input type="hidden" name="want_shipping" value="0">
+		<input type="hidden" name="success_url" value="https://pastebin.com/raw/8TtTDLf6">
+		<input type="hidden" name="allow_extra" value="1">
+		<input type="image" src="https://www.coinpayments.net/images/pub/donate-med.png" alt="Donate with CoinPayments.net">
+		</form>
+
 		╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat pgp.asc<br />
                 You can also send me PGP-encrypted messages if you wish.<br />
