@@ -29,7 +29,7 @@
                 In an apprenticeship.<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat contact.txt<br />
-                E-Mail: privateger@tutanota.com<br />
+                E-Mail: privateger@privateger.me<br />
                 Discord: PrivateGER#4089<br />
                 IRC: privateger@irc.freenode.net<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
