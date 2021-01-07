@@ -31,7 +31,7 @@
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat contact.txt<br />
                 E-Mail: privateger@tutanota.com<br />
                 Discord: PrivateGER#4089<br />
-                Jabber/XMPP: privateger@jabber.calyxinstitute.org<br />
+                IRC: privateger@irc.freenode.net<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat github.txt<br />
                 You can find me on GitHub under the name PrivateGER. <a target="_blank" rel="noopener noreferrer" href="https://github.com/PrivateGER">Click here!</a><br />
