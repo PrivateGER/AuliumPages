@@ -5,9 +5,8 @@
     </head>
     <body>
         <div class="terminal_box">
-
             <p>
-				Connection established from <?= $_SERVER["REMOTE_ADDR"] === "::1" ? "127.0.0.1" : $_SERVER["REMOTE_ADDR"] ?> over <?= isset($_SERVER["HTTPS"]) ? "secure" : "unencrypted" ?> channel.<br />
+		Connection established from <?= $_SERVER["REMOTE_ADDR"] === "::1" ? "127.0.0.1" : $_SERVER["REMOTE_ADDR"] ?> over <?= isset($_SERVER["HTTPS"]) ? "secure" : "unencrypted" ?> channel.<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % pwd<br />
                 /home/privateger
@@ -27,6 +26,7 @@
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat job.txt<br />
                 In an apprenticeship.<br />
+		Still open for freelance work, contact me using any of the ways below.<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat contact.txt<br />
                 E-Mail: privateger@privateger.me<br />
