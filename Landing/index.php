@@ -2,6 +2,7 @@
     <head>
         <link rel="stylesheet" href="styling.css">
 		<title>PrivateGER Landing Page</title>
+	<script data-ad-client="ca-pub-4511153742871799" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     </head>
     <body>
         <div class="terminal_box">
