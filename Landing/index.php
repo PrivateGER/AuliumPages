@@ -23,7 +23,6 @@
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat information.txt<br />
                 Name: Marc<br />
-                Born: 02/06/2003<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat job.txt<br />
                 In an apprenticeship.<br />
