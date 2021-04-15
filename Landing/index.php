@@ -33,7 +33,7 @@
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat contact.txt<br />
                 E-Mail: privateger@privateger.me<br />
                 Discord: PrivateGER#4089<br />
-                IRC: privateger@irc.freenode.net<br />
+		XMPP/Jabber: privateger@im.privateger.me
 		Briar: Contact me to get a link<br />
 		Session: 057c1a92335433d92f41f707f82d198a579cff2cd47aa4b79eaa42cab99e7f696b<br />
 		Mastodon: <a rel="me" href="https://chaos.social/@privateger">@privateger@chaos.social</a><br />
@@ -60,7 +60,7 @@
                 <input type="image" src="https://www.coinpayments.net/images/pub/donate-med.png" alt="Donate with CoinPayments.net">
                 </form>
 
-		        ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
+		╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat pgp.asc<br />
                 You can also send me PGP-encrypted messages if you wish.<br />
                 PGP fingerprint: 0xCAE625C962F94C67<br />
