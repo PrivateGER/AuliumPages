@@ -31,7 +31,7 @@
 		Still open for freelance work, contact me using any of the ways below.<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat contact.txt<br />
-                E-Mail: privateger@privateger.me<br />
+                E-Mail: <a href="mailto:privateger@privateger.me">privateger@privateger.me</a><br />
                 Discord: PrivateGER#4089<br />
 		XMPP/Jabber: <a href="xmpp://privateger@im.privateger.me/" target="_blank">privateger@im.privateger.me</a><br/>
 		Session: 057c1a92335433d92f41f707f82d198a579cff2cd47aa4b79eaa42cab99e7f696b<br />
