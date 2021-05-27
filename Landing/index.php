@@ -2,7 +2,7 @@
     <head>
         <link rel="stylesheet" href="styling.css">
 		<title>PrivateGER Landing Page</title>
-	    <script data-ad-client="ca-pub-4511153742871799" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<script async defer data-domain="plausible.privateger.me" src="https://plausible.privateger.me/js/plausible.js"></script>
         <script src="js/encom-globe-min.js"></script>
         <script src="js/tiles.js"></script>
     </head>
