@@ -33,8 +33,9 @@
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat contact.txt<br />
                 E-Mail: <a href="mailto:privateger@privateger.me">privateger@privateger.me</a><br />
                 Discord: PrivateGER#4089<br />
+		Element: @privateger:matrix.privateger.me
 		Session: 057c1a92335433d92f41f707f82d198a579cff2cd47aa4b79eaa42cab99e7f696b<br />
-		Mastodon: <a rel="me" href="https://chaos.social/@privateger">@privateger@chaos.social</a><br />
+		Fediverse: <a rel="me" href="https://chaos.social/@privateger">@privateger@plasmatrap.com</a><br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat github.txt<br />
                 You can find me on GitHub under the name PrivateGER. <a target="_blank" rel="noopener noreferrer" href="https://github.com/PrivateGER">Click here!</a><br />
