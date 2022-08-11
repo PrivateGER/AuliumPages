@@ -16,15 +16,10 @@
                 <br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % ls<br />
-                total 5<br />
-                -rw-rw-r-- 1 privateger privateger    0 Sep  6 21:39 information.txt<br />
-                -rw-rw-r-- 1 privateger privateger    0 Sep  6 21:40 job.txt<br />
+                total 3<br />
                 -rw-rw-r-- 1 privateger privateger    0 Sep  6 21:40 contact.txt<br />
                 -rw-rw-r-- 1 privateger privateger    0 Sep  6 21:40 github.txt<br />
                 -rw-rw-r-- 1 privateger privateger    0 Sep  6 21:40 pgp.asc<br />
-                ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
-                ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat information.txt<br />
-                Name: Marc<br />
                 ╭─<span class="blue_text">[</span>~<span class="blue_text">]</span>─<span class="blue_text">[</span>privateger@AuliumMaster<span class="blue_text">]</span>─<span class="blue_text">[</span>0<span class="blue_text">]</span>─<span class="blue_text">[</span>157<span class="blue_text">]</span><br />
                 ╰─<span class="blue_text">[</span><span class="green_text">:)</span><span class="blue_text">]</span> % cat contact.txt<br />
                 E-Mail: <a href="mailto:privateger@privateger.me">privateger@privateger.me</a><br />
